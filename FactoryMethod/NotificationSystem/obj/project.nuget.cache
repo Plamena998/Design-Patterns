@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hebc5L+9iq8=",
+  "dgSpecHash": "NN4czf8VvJQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\DesignPatterns\\DesignPatterns\\NotificationSystem.csproj",
+  "projectFilePath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\NotificationSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plami\\Documents\\uni\\GitHub\\DesignPatterns\\DesignPatterns\\NotificationSystem.csproj": {}
+    "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\NotificationSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plami\\Documents\\uni\\GitHub\\DesignPatterns\\DesignPatterns\\NotificationSystem.csproj": {
+    "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\NotificationSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plami\\Documents\\uni\\GitHub\\DesignPatterns\\DesignPatterns\\NotificationSystem.csproj",
+        "projectUniqueName": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\NotificationSystem.csproj",
         "projectName": "NotificationSystem",
-        "projectPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\DesignPatterns\\DesignPatterns\\NotificationSystem.csproj",
+        "projectPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\NotificationSystem.csproj",
         "packagesPath": "C:\\Users\\plami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\DesignPatterns\\DesignPatterns\\obj\\",
+        "outputPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
