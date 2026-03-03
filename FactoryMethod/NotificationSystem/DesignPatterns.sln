@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationSystem", "NotificationSystem.csproj", "{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryMethod", "FactoryMethod", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00AA5396-1BBA-4628-8619-AE8466883C7C}
+	EndGlobalSection
+EndGlobal
