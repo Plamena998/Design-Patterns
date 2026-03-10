@@ -3,6 +3,57 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\italianchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\frenchchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\bulgariandrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\bulgariandish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\bulgarianchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\abstraction\\restaurantfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\concretefactories\\italianfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\ichef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\italiandrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\italiandish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\concretefactories\\frechfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\concretefactories\\bulgarianfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\frenchdish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\frenchdrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\idrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}|..\\..\\AbstractFactory\\Restaurant\\Restaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\abstractfactory\\restaurant\\products\\idish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}|NotificationSystem.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\factorymethod\\notificationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}|NotificationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +85,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItalianFactory.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\ConcreteFactories\\ItalianFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\ConcreteFactories\\ItalianFactory.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\ConcreteFactories\\ItalianFactory.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\ConcreteFactories\\ItalianFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:21:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Program.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:16:42.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulgarianDish.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\BulgarianDish.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\BulgarianDish.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\BulgarianDish.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\BulgarianDish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:29:12.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulgarianDrink.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\BulgarianDrink.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\BulgarianDrink.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\BulgarianDrink.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\BulgarianDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:29:21.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BulgarianChef.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\BulgarianChef.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\BulgarianChef.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\BulgarianChef.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\BulgarianChef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:28:57.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantFactory.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Abstraction\\RestaurantFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Abstraction\\RestaurantFactory.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Abstraction\\RestaurantFactory.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Abstraction\\RestaurantFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:23:45.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrenchChef.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\FrenchChef.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\FrenchChef.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\FrenchChef.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\FrenchChef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:29:32.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItalianChef.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\ItalianChef.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\ItalianChef.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\ItalianChef.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\ItalianChef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:28:11.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IChef.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\IChef.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\IChef.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\IChef.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\IChef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:18:48.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItalianDrink.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\ItalianDrink.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\ItalianDrink.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\ItalianDrink.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\ItalianDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:28:43.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItalianDish.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\ItalianDish.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\ItalianDish.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\ItalianDish.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\ItalianDish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:28:27.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrechFactory.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\ConcreteFactories\\FrechFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\ConcreteFactories\\FrechFactory.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\ConcreteFactories\\FrechFactory.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\ConcreteFactories\\FrechFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:22:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BulgarianFactory.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\ConcreteFactories\\BulgarianFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\ConcreteFactories\\BulgarianFactory.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\ConcreteFactories\\BulgarianFactory.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\ConcreteFactories\\BulgarianFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:22:16.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrenchDish.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\FrenchDish.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\FrenchDish.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\FrenchDish.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\FrenchDish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:29:41.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrenchDrink.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\FrenchDrink.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\FrenchDrink.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\FrenchDrink.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\FrenchDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:29:50.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDrink.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\IDrink.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\IDrink.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\IDrink.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\IDrink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:19:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDish.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\IDish.cs",
+              "RelativeDocumentMoniker": "..\\..\\AbstractFactory\\Restaurant\\Products\\IDish.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\AbstractFactory\\Restaurant\\Products\\IDish.cs",
+              "RelativeToolTip": "..\\..\\AbstractFactory\\Restaurant\\Products\\IDish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:19:26.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

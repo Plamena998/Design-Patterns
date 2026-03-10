@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36930.0 d17.14
+VisualStudioVersion = 17.14.36930.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationSystem", "NotificationSystem.csproj", "{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryMethod", "FactoryMethod", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory", "AbstractFactory", "{2C53F8B5-079C-4AC9-84D9-9F4741728650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "..\..\AbstractFactory\Restaurant\Restaurant.csproj", "{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79} = {2C53F8B5-079C-4AC9-84D9-9F4741728650}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {00AA5396-1BBA-4628-8619-AE8466883C7C}
