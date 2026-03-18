@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "..\..\AbstractFactory\Restaurant\Restaurant.csproj", "{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Singleton", "Singleton", "{125BC4C4-CE1E-49F6-A77B-EBFC06DA5790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerExample", "..\..\Singleton\Logger\LoggerExample.csproj", "{25AA24A7-17BD-4642-A930-833B41BF8100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AA24A7-17BD-4642-A930-833B41BF8100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AA24A7-17BD-4642-A930-833B41BF8100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AA24A7-17BD-4642-A930-833B41BF8100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AA24A7-17BD-4642-A930-833B41BF8100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C99BCADC-15D7-4AF7-B946-1AA99FFCA58B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{33FC7F7D-99A4-468C-9B5A-B8AB14EDEA79} = {2C53F8B5-079C-4AC9-84D9-9F4741728650}
+		{25AA24A7-17BD-4642-A930-833B41BF8100} = {125BC4C4-CE1E-49F6-A77B-EBFC06DA5790}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {00AA5396-1BBA-4628-8619-AE8466883C7C}

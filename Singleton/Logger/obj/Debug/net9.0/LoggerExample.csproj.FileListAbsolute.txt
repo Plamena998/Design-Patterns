@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\bin\Debug\net9.0\LoggerExample.exe
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\bin\Debug\net9.0\LoggerExample.deps.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\bin\Debug\net9.0\LoggerExample.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\bin\Debug\net9.0\LoggerExample.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\bin\Debug\net9.0\LoggerExample.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\LoggerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\LoggerExample.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\LoggerExample.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\LoggerExample.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\LoggerExample.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\LoggerExample.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\refint\LoggerExample.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\LoggerExample.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\LoggerExample.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Singleton\Logger\obj\Debug\net9.0\ref\LoggerExample.dll
