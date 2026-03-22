@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\bin\Debug\net9.0\PizzaMaker.exe
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\bin\Debug\net9.0\PizzaMaker.deps.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\bin\Debug\net9.0\PizzaMaker.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\bin\Debug\net9.0\PizzaMaker.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\bin\Debug\net9.0\PizzaMaker.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\PizzaMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\PizzaMaker.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\PizzaMaker.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\PizzaMaker.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\PizzaMaker.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\PizzaMaker.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\refint\PizzaMaker.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\PizzaMaker.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\PizzaMaker.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Builder\PizzaMaker\obj\Debug\net9.0\ref\PizzaMaker.dll
