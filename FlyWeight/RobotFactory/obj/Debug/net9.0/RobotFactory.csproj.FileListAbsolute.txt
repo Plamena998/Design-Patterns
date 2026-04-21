@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\bin\Debug\net9.0\RobotFactory.exe
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\bin\Debug\net9.0\RobotFactory.deps.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\bin\Debug\net9.0\RobotFactory.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\bin\Debug\net9.0\RobotFactory.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\bin\Debug\net9.0\RobotFactory.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\RobotFactory.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\RobotFactory.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\RobotFactory.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\refint\RobotFactory.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\RobotFactory.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\RobotFactory.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\FlyWeight\RobotFactory\obj\Debug\net9.0\ref\RobotFactory.dll
