@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\bin\Debug\net9.0\Coffee Machine.exe
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\bin\Debug\net9.0\Coffee Machine.deps.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\bin\Debug\net9.0\Coffee Machine.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\bin\Debug\net9.0\Coffee Machine.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\bin\Debug\net9.0\Coffee Machine.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\Coffee Machine.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\Coffee Machine.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\Coffee Machine.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\Coffee Machine.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\Coffee Machine.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\refint\Coffee Machine.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\Coffee Machine.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\Coffee Machine.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Facade\Coffee Machine\obj\Debug\net9.0\ref\Coffee Machine.dll
