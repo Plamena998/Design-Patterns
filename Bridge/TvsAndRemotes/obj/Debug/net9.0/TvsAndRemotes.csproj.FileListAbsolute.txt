@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\bin\Debug\net9.0\TvsAndRemotes.exe
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\bin\Debug\net9.0\TvsAndRemotes.deps.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\bin\Debug\net9.0\TvsAndRemotes.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\bin\Debug\net9.0\TvsAndRemotes.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\bin\Debug\net9.0\TvsAndRemotes.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\TvsAndRemotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\TvsAndRemotes.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\TvsAndRemotes.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\TvsAndRemotes.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\TvsAndRemotes.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\TvsAndRemotes.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\refint\TvsAndRemotes.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\TvsAndRemotes.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\TvsAndRemotes.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Bridge\TvsAndRemotes\obj\Debug\net9.0\ref\TvsAndRemotes.dll

@@ -3,46 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5790AE2D-0818-4C05-A81A-1D9632ABAF85}|..\\..\\Proxy\\FileSystem\\FileSystem.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\proxy\\filesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7443763-C2CE-4420-940C-6EC2E8311EAF}|..\\..\\Bridge\\TvsAndRemotes\\TvsAndRemotes.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\bridge\\tvsandremotes\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790AE2D-0818-4C05-A81A-1D9632ABAF85}|..\\..\\Proxy\\FileSystem\\FileSystem.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\proxy\\filesystem\\filesystemproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7443763-C2CE-4420-940C-6EC2E8311EAF}|..\\..\\Bridge\\TvsAndRemotes\\TvsAndRemotes.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\bridge\\tvsandremotes\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790AE2D-0818-4C05-A81A-1D9632ABAF85}|..\\..\\Proxy\\FileSystem\\FileSystem.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\proxy\\filesystem\\ifilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7443763-C2CE-4420-940C-6EC2E8311EAF}|..\\..\\Bridge\\TvsAndRemotes\\TvsAndRemotes.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\bridge\\tvsandremotes\\lgtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5790AE2D-0818-4C05-A81A-1D9632ABAF85}|..\\..\\Proxy\\FileSystem\\FileSystem.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\proxy\\filesystem\\myfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7443763-C2CE-4420-940C-6EC2E8311EAF}|..\\..\\Bridge\\TvsAndRemotes\\TvsAndRemotes.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\bridge\\tvsandremotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB50ECF5-5B9B-4609-8008-F487B2404918}|..\\..\\FlyWeight\\RobotFactory\\RobotFactory.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\flyweight\\robotfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB50ECF5-5B9B-4609-8008-F487B2404918}|..\\..\\FlyWeight\\RobotFactory\\RobotFactory.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\flyweight\\robotfactory\\robotsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB50ECF5-5B9B-4609-8008-F487B2404918}|..\\..\\FlyWeight\\RobotFactory\\RobotFactory.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\flyweight\\robotfactory\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB50ECF5-5B9B-4609-8008-F487B2404918}|..\\..\\FlyWeight\\RobotFactory\\RobotFactory.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\flyweight\\robotfactory\\robottype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20731AA8-3D08-452C-8F06-4B069ED9FD20}|..\\..\\Facade\\Coffee Machine\\Coffee Machine.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\facade\\coffee machine\\facadecoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20731AA8-3D08-452C-8F06-4B069ED9FD20}|..\\..\\Facade\\Coffee Machine\\Coffee Machine.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\facade\\coffee machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20731AA8-3D08-452C-8F06-4B069ED9FD20}|..\\..\\Facade\\Coffee Machine\\Coffee Machine.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\facade\\coffee machine\\coffeechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20731AA8-3D08-452C-8F06-4B069ED9FD20}|..\\..\\Facade\\Coffee Machine\\Coffee Machine.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\facade\\coffee machine\\heatingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20731AA8-3D08-452C-8F06-4B069ED9FD20}|..\\..\\Facade\\Coffee Machine\\Coffee Machine.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\facade\\coffee machine\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20731AA8-3D08-452C-8F06-4B069ED9FD20}|..\\..\\Facade\\Coffee Machine\\Coffee Machine.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\facade\\coffee machine\\serving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7443763-C2CE-4420-940C-6EC2E8311EAF}|..\\..\\Bridge\\TvsAndRemotes\\TvsAndRemotes.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\bridge\\tvsandremotes\\sonytv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,175 +46,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Proxy\\FileSystem\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Proxy\\FileSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Proxy\\FileSystem\\Program.cs",
-              "RelativeToolTip": "..\\..\\Proxy\\FileSystem\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "Remote.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Remote.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Remote.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Remote.cs",
+              "RelativeToolTip": "..\\..\\Bridge\\TvsAndRemotes\\Remote.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:17:54.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileSystemProxy.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Proxy\\FileSystem\\FileSystemProxy.cs",
-              "RelativeDocumentMoniker": "..\\..\\Proxy\\FileSystem\\FileSystemProxy.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Proxy\\FileSystem\\FileSystemProxy.cs",
-              "RelativeToolTip": "..\\..\\Proxy\\FileSystem\\FileSystemProxy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:17:49.278Z",
+              "WhenOpened": "2026-04-22T15:28:04.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IFileSystem.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Proxy\\FileSystem\\IFileSystem.cs",
-              "RelativeDocumentMoniker": "..\\..\\Proxy\\FileSystem\\IFileSystem.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Proxy\\FileSystem\\IFileSystem.cs",
-              "RelativeToolTip": "..\\..\\Proxy\\FileSystem\\IFileSystem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LGTv.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\LGTv.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\LGTv.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\LGTv.cs",
+              "RelativeToolTip": "..\\..\\Bridge\\TvsAndRemotes\\LGTv.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA2wBUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:17:41.036Z",
+              "WhenOpened": "2026-04-22T15:26:34.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SonyTv.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\SonyTv.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\SonyTv.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\SonyTv.cs",
+              "RelativeToolTip": "..\\..\\Bridge\\TvsAndRemotes\\SonyTv.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:22:43.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\IDevice.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\IDevice.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\IDevice.cs",
+              "RelativeToolTip": "..\\..\\Bridge\\TvsAndRemotes\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:21:13.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MyFile.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Proxy\\FileSystem\\MyFile.cs",
-              "RelativeDocumentMoniker": "..\\..\\Proxy\\FileSystem\\MyFile.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Proxy\\FileSystem\\MyFile.cs",
-              "RelativeToolTip": "..\\..\\Proxy\\FileSystem\\MyFile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:17:39.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FlyWeight\\RobotFactory\\Robot.cs",
-              "RelativeDocumentMoniker": "..\\..\\FlyWeight\\RobotFactory\\Robot.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FlyWeight\\RobotFactory\\Robot.cs",
-              "RelativeToolTip": "..\\..\\FlyWeight\\RobotFactory\\Robot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:51:27.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RobotsFactory.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FlyWeight\\RobotFactory\\RobotsFactory.cs",
-              "RelativeDocumentMoniker": "..\\..\\FlyWeight\\RobotFactory\\RobotsFactory.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FlyWeight\\RobotFactory\\RobotsFactory.cs",
-              "RelativeToolTip": "..\\..\\FlyWeight\\RobotFactory\\RobotsFactory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:42:52.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RobotType.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FlyWeight\\RobotFactory\\RobotType.cs",
-              "RelativeDocumentMoniker": "..\\..\\FlyWeight\\RobotFactory\\RobotType.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FlyWeight\\RobotFactory\\RobotType.cs",
-              "RelativeToolTip": "..\\..\\FlyWeight\\RobotFactory\\RobotType.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:36:26.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FlyWeight\\RobotFactory\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\FlyWeight\\RobotFactory\\Program.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FlyWeight\\RobotFactory\\Program.cs",
-              "RelativeToolTip": "..\\..\\FlyWeight\\RobotFactory\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Program.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Program.cs",
+              "RelativeToolTip": "..\\..\\Bridge\\TvsAndRemotes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:35:59.086Z",
+              "WhenOpened": "2026-04-22T15:20:26.641Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Serving.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\Serving.cs",
-              "RelativeDocumentMoniker": "..\\..\\Facade\\Coffee Machine\\Serving.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\Serving.cs",
-              "RelativeToolTip": "..\\..\\Facade\\Coffee Machine\\Serving.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:20:37.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FacadeCoffee.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\FacadeCoffee.cs",
-              "RelativeDocumentMoniker": "..\\..\\Facade\\Coffee Machine\\FacadeCoffee.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\FacadeCoffee.cs",
-              "RelativeToolTip": "..\\..\\Facade\\Coffee Machine\\FacadeCoffee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:14:43.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CoffeeChoice.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\CoffeeChoice.cs",
-              "RelativeDocumentMoniker": "..\\..\\Facade\\Coffee Machine\\CoffeeChoice.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\CoffeeChoice.cs",
-              "RelativeToolTip": "..\\..\\Facade\\Coffee Machine\\CoffeeChoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:08:13.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HeatingUp.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\HeatingUp.cs",
-              "RelativeDocumentMoniker": "..\\..\\Facade\\Coffee Machine\\HeatingUp.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\HeatingUp.cs",
-              "RelativeToolTip": "..\\..\\Facade\\Coffee Machine\\HeatingUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:06:41.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Power.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\Power.cs",
-              "RelativeDocumentMoniker": "..\\..\\Facade\\Coffee Machine\\Power.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\Power.cs",
-              "RelativeToolTip": "..\\..\\Facade\\Coffee Machine\\Power.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:06:26.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Facade\\Coffee Machine\\Program.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Facade\\Coffee Machine\\Program.cs",
-              "RelativeToolTip": "..\\..\\Facade\\Coffee Machine\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:05:42.404Z"
             }
           ]
         }
