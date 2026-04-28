@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Discounts")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fa6d29ca3ea6cbcff7782546e2fade24f25e94b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0402e1b1b4bae9072d13e5f00956cb49e301c6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Discounts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Discounts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,19 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC2F94A9-E898-4C18-B962-E4F6977B72F8}|..\\Discounts\\Discounts.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\factorymethod\\discounts\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2F94A9-E898-4C18-B962-E4F6977B72F8}|..\\Discounts\\Discounts.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\factorymethod\\discounts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2F94A9-E898-4C18-B962-E4F6977B72F8}|..\\Discounts\\Discounts.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\factorymethod\\discounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2F94A9-E898-4C18-B962-E4F6977B72F8}|..\\Discounts\\Discounts.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\factorymethod\\discounts\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2F94A9-E898-4C18-B962-E4F6977B72F8}|..\\Discounts\\Discounts.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\factorymethod\\discounts\\discounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC2F94A9-E898-4C18-B962-E4F6977B72F8}|..\\Discounts\\Discounts.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\factorymethod\\discounts\\discounts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -34,6 +22,18 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7443763-C2CE-4420-940C-6EC2E8311EAF}|..\\..\\Bridge\\TvsAndRemotes\\TvsAndRemotes.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\bridge\\tvsandremotes\\sonytv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\DiscountHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,16 +67,14 @@
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Owner.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs*",
-              "RelativeToolTip": "..\\Discounts\\Owner.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs",
+              "RelativeToolTip": "..\\Discounts\\Owner.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:51:04.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T11:51:04.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Manager.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Manager.cs",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "..\\Discounts\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:50:46.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T11:50:46.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Waiter.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Waiter.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Waiter.cs",
@@ -97,12 +94,11 @@
               "RelativeToolTip": "..\\Discounts\\Waiter.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:50:17.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T11:50:17.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "DiscountHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\DiscountHandler.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\DiscountHandler.cs",
@@ -110,25 +106,23 @@
               "RelativeToolTip": "..\\Discounts\\DiscountHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:48:25.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T11:48:25.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Discounts",
+              "DocumentIndex": 1,
+              "Title": "Discounts.csproj",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Discounts.csproj",
               "RelativeDocumentMoniker": "..\\Discounts\\Discounts.csproj",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Discounts.csproj",
               "RelativeToolTip": "..\\Discounts\\Discounts.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-28T11:45:12.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T11:45:12.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Program.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Program.cs",
@@ -136,12 +130,11 @@
               "RelativeToolTip": "..\\Discounts\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:45:08.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T11:45:08.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Remote.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Remote.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Remote.cs",
@@ -149,12 +142,11 @@
               "RelativeToolTip": "..\\..\\Bridge\\TvsAndRemotes\\Remote.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T15:28:04.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T15:28:04.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "LGTv.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\LGTv.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\LGTv.cs",
@@ -166,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "SonyTv.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\SonyTv.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\SonyTv.cs",
@@ -178,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "IDevice.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\IDevice.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\IDevice.cs",
@@ -190,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Program.cs",
