@@ -92,8 +92,7 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:49:49.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:49:49.048Z"
             },
             {
               "$type": "Document",
@@ -105,8 +104,7 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:49:12.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:49:12.109Z"
             },
             {
               "$type": "Document",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:47:13.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:47:13.199Z"
             },
             {
               "$type": "Document",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:48:11.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:48:11.599Z"
             },
             {
               "$type": "Document",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:46:44.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:46:44.619Z"
             },
             {
               "$type": "Document",
@@ -170,8 +165,7 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:48:44.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:48:44.493Z"
             },
             {
               "$type": "Document",
@@ -183,8 +177,7 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:47:41.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:47:41.89Z"
             },
             {
               "$type": "Document",

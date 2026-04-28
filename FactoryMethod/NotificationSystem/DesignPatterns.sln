@@ -43,6 +43,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chain of responsibility", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApproval1", "..\..\ChainOfResposibility\OrderApproval1\OrderApproval1.csproj", "{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dsicounts", "..\..\ChainOfResposibility\Dsicounts\Dsicounts.csproj", "{4B996CB1-20B0-445E-8833-5AB3B1AFAE04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,6 +91,10 @@ Global
 		{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B996CB1-20B0-445E-8833-5AB3B1AFAE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B996CB1-20B0-445E-8833-5AB3B1AFAE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B996CB1-20B0-445E-8833-5AB3B1AFAE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B996CB1-20B0-445E-8833-5AB3B1AFAE04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{FB50ECF5-5B9B-4609-8008-F487B2404918} = {92D7EE9A-7037-490A-99CE-66B3FF4CE9B6}
 		{E7443763-C2CE-4420-940C-6EC2E8311EAF} = {7D90DE39-AE29-4E73-BEEB-811B00E4DBAE}
 		{B84B8080-F3B9-4D3A-9116-CB19FA27C71A} = {06937D30-D7AD-4C18-BDA7-272FD430906C}
+		{4B996CB1-20B0-445E-8833-5AB3B1AFAE04} = {06937D30-D7AD-4C18-BDA7-272FD430906C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {00AA5396-1BBA-4628-8619-AE8466883C7C}

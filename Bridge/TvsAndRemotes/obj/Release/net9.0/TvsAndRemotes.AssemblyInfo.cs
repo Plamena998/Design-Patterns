@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TvsAndRemotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fa6d29ca3ea6cbcff7782546e2fade24f25e94b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71634341288bc3fedd93b37f2453f32ac06e08fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TvsAndRemotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TvsAndRemotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
