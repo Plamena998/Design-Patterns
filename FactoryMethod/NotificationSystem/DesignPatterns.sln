@@ -39,6 +39,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bridge", "Bridge", "{7D90DE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvsAndRemotes", "..\..\Bridge\TvsAndRemotes\TvsAndRemotes.csproj", "{E7443763-C2CE-4420-940C-6EC2E8311EAF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chain of responsibility", "Chain of responsibility", "{06937D30-D7AD-4C18-BDA7-272FD430906C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discounts", "..\Discounts\Discounts.csproj", "{FC2F94A9-E898-4C18-B962-E4F6977B72F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,10 @@ Global
 		{E7443763-C2CE-4420-940C-6EC2E8311EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7443763-C2CE-4420-940C-6EC2E8311EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7443763-C2CE-4420-940C-6EC2E8311EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2F94A9-E898-4C18-B962-E4F6977B72F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2F94A9-E898-4C18-B962-E4F6977B72F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2F94A9-E898-4C18-B962-E4F6977B72F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2F94A9-E898-4C18-B962-E4F6977B72F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +103,7 @@ Global
 		{20731AA8-3D08-452C-8F06-4B069ED9FD20} = {12AA4B9F-B2B8-480A-AE4C-C2236AE7C35E}
 		{FB50ECF5-5B9B-4609-8008-F487B2404918} = {92D7EE9A-7037-490A-99CE-66B3FF4CE9B6}
 		{E7443763-C2CE-4420-940C-6EC2E8311EAF} = {7D90DE39-AE29-4E73-BEEB-811B00E4DBAE}
+		{FC2F94A9-E898-4C18-B962-E4F6977B72F8} = {06937D30-D7AD-4C18-BDA7-272FD430906C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {00AA5396-1BBA-4628-8619-AE8466883C7C}
