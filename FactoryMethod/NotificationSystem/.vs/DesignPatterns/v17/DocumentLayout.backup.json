@@ -3,10 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}|..\\..\\ChainOfResposibility\\OrderApproval1\\OrderApproval1.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\orderapproval1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2F94A9-E898-4C18-B962-E4F6977B72F8}|..\\Discounts\\Discounts.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\factorymethod\\discounts\\discounts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}|..\\..\\ChainOfResposibility\\OrderApproval1\\OrderApproval1.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\orderapproval1\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}|..\\..\\ChainOfResposibility\\OrderApproval1\\OrderApproval1.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\orderapproval1\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}|..\\..\\ChainOfResposibility\\OrderApproval1\\OrderApproval1.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\orderapproval1\\iorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}|..\\..\\ChainOfResposibility\\OrderApproval1\\OrderApproval1.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\orderapproval1\\shippingconfirmationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}|..\\..\\ChainOfResposibility\\OrderApproval1\\OrderApproval1.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\orderapproval1\\paymentverificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}|..\\..\\ChainOfResposibility\\OrderApproval1\\OrderApproval1.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\orderapproval1\\inventorycheckhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84B8080-F3B9-4D3A-9116-CB19FA27C71A}|..\\..\\ChainOfResposibility\\OrderApproval1\\OrderApproval1.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\orderapproval1\\baseorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7443763-C2CE-4420-940C-6EC2E8311EAF}|..\\..\\Bridge\\TvsAndRemotes\\TvsAndRemotes.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\bridge\\tvsandremotes\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -43,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,7 +84,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShippingConfirmationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
+              "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:49:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentVerificationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
+              "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:49:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
+              "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:47:13.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
+              "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:48:11.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\Order.cs",
+              "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\Order.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\Order.cs",
+              "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:46:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\Program.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\Program.cs",
+              "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:34:37.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryCheckHandler.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
+              "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:48:44.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
+              "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:47:41.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Owner.cs",
@@ -74,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Manager.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Manager.cs",
@@ -86,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Waiter.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Waiter.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Waiter.cs",
@@ -98,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "DiscountHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\DiscountHandler.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\DiscountHandler.cs",
@@ -110,19 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Discounts.csproj",
-              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Discounts.csproj",
-              "RelativeDocumentMoniker": "..\\Discounts\\Discounts.csproj",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Discounts.csproj",
-              "RelativeToolTip": "..\\Discounts\\Discounts.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-28T11:45:12.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Program.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Program.cs",
@@ -134,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Remote.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Remote.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Remote.cs",
@@ -146,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "LGTv.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\LGTv.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\LGTv.cs",
@@ -158,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "SonyTv.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\SonyTv.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\SonyTv.cs",
@@ -170,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "IDevice.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\IDevice.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\IDevice.cs",
@@ -182,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Program.cs",
