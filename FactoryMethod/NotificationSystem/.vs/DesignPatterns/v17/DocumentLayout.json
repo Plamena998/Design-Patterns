@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20A891DD-DD78-4716-B01E-A355E7D96822}|..\\..\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\composite\\menucategoryprice\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A891DD-DD78-4716-B01E-A355E7D96822}|..\\..\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\composite\\menucategoryprice\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A891DD-DD78-4716-B01E-A355E7D96822}|..\\..\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\composite\\menucategoryprice\\menucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A891DD-DD78-4716-B01E-A355E7D96822}|..\\..\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\composite\\menucategoryprice\\menucategoryprice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A891DD-DD78-4716-B01E-A355E7D96822}|..\\..\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\composite\\menucategoryprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B996CB1-20B0-445E-8833-5AB3B1AFAE04}|..\\..\\ChainOfResposibility\\Dsicounts\\Dsicounts.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\chainofresposibility\\dsicounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -87,7 +102,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuCategoryPrice",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj",
+              "RelativeToolTip": "..\\..\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T18:06:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\MenuCategory.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuCategory.cs",
+              "RelativeToolTip": "..\\..\\Composite\\MenuCategoryPrice\\MenuCategory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:53:12.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuItem.cs",
+              "RelativeToolTip": "..\\..\\Composite\\MenuCategoryPrice\\MenuItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:49:11.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuComponent.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuComponent.cs",
+              "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\MenuComponent.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuComponent.cs",
+              "RelativeToolTip": "..\\..\\Composite\\MenuCategoryPrice\\MenuComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:46:18.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\Program.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\Program.cs",
+              "RelativeToolTip": "..\\..\\Composite\\MenuCategoryPrice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:45:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\Dsicounts\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\Dsicounts\\Program.cs",
@@ -100,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PaymentVerificationHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
@@ -112,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IOrderHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
@@ -124,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ValidationHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
@@ -136,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\Order.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\Order.cs",
@@ -148,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\Program.cs",
@@ -156,12 +236,11 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:34:37.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:34:37.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BaseOrderHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
@@ -169,12 +248,11 @@
               "RelativeToolTip": "..\\..\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T12:47:41.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T12:47:41.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ShippingConfirmationHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
@@ -186,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "InventoryCheckHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
@@ -198,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Owner.cs",
@@ -209,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Manager.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Manager.cs",
@@ -221,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Waiter.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Waiter.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Waiter.cs",
@@ -233,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "DiscountHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\DiscountHandler.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\DiscountHandler.cs",
@@ -245,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Program.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Program.cs",
@@ -257,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Remote.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Remote.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Remote.cs",
@@ -269,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "LGTv.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\LGTv.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\LGTv.cs",
@@ -281,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "SonyTv.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\SonyTv.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\SonyTv.cs",
@@ -293,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "IDevice.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\IDevice.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\IDevice.cs",
@@ -305,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Program.cs",
