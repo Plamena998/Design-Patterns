@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\bin\Debug\net9.0\Pizzaria.exe
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\bin\Debug\net9.0\Pizzaria.deps.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\bin\Debug\net9.0\Pizzaria.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\bin\Debug\net9.0\Pizzaria.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\bin\Debug\net9.0\Pizzaria.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\Pizzaria.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\Pizzaria.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\Pizzaria.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\refint\Pizzaria.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\Pizzaria.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\Pizzaria.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Decorator\Pizzaria\obj\Debug\net9.0\ref\Pizzaria.dll
