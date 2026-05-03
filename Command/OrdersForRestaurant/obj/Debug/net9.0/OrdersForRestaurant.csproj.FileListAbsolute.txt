@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\bin\Debug\net9.0\OrdersForRestaurant.exe
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\bin\Debug\net9.0\OrdersForRestaurant.deps.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\bin\Debug\net9.0\OrdersForRestaurant.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\bin\Debug\net9.0\OrdersForRestaurant.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\bin\Debug\net9.0\OrdersForRestaurant.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\OrdersForRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\OrdersForRestaurant.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\OrdersForRestaurant.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\OrdersForRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\OrdersForRestaurant.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\OrdersForRestaurant.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\refint\OrdersForRestaurant.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\OrdersForRestaurant.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\OrdersForRestaurant.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Command\OrdersForRestaurant\obj\Debug\net9.0\ref\OrdersForRestaurant.dll

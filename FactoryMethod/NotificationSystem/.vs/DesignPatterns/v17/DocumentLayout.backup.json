@@ -3,6 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\NotificationSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A83ECCE2-21DA-473B-863F-8D632E566142}|..\\..\\Command\\OrdersForRestaurant\\OrdersForRestaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\command\\ordersforrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83ECCE2-21DA-473B-863F-8D632E566142}|..\\..\\Command\\OrdersForRestaurant\\OrdersForRestaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\command\\ordersforrestaurant\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83ECCE2-21DA-473B-863F-8D632E566142}|..\\..\\Command\\OrdersForRestaurant\\OrdersForRestaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\command\\ordersforrestaurant\\sushiorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83ECCE2-21DA-473B-863F-8D632E566142}|..\\..\\Command\\OrdersForRestaurant\\OrdersForRestaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\command\\ordersforrestaurant\\pastaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83ECCE2-21DA-473B-863F-8D632E566142}|..\\..\\Command\\OrdersForRestaurant\\OrdersForRestaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\command\\ordersforrestaurant\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83ECCE2-21DA-473B-863F-8D632E566142}|..\\..\\Command\\OrdersForRestaurant\\OrdersForRestaurant.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\command\\ordersforrestaurant\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B2AD97-E22A-4F07-B9BD-BC892D72C14F}|..\\..\\Adapter\\Payments\\Payments.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\adapter\\payments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B2AD97-E22A-4F07-B9BD-BC892D72C14F}|..\\..\\Adapter\\Payments\\Payments.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\adapter\\payments\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B2AD97-E22A-4F07-B9BD-BC892D72C14F}|..\\..\\Adapter\\Payments\\Payments.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\adapter\\payments\\oldpaymentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B2AD97-E22A-4F07-B9BD-BC892D72C14F}|..\\..\\Adapter\\Payments\\Payments.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\adapter\\payments\\ipaymentproccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0F57DEB-69E8-4712-8CC6-F761D9FE91EB}|..\\..\\Decorator\\Pizzaria\\Pizzaria.csproj|c:\\users\\plami\\documents\\uni\\github\\design-patterns\\decorator\\pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -121,6 +151,133 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\Waiter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Command\\OrdersForRestaurant\\Waiter.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\Waiter.cs",
+              "RelativeToolTip": "..\\..\\Command\\OrdersForRestaurant\\Waiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:36:23.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SushiOrder.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\SushiOrder.cs",
+              "RelativeDocumentMoniker": "..\\..\\Command\\OrdersForRestaurant\\SushiOrder.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\SushiOrder.cs",
+              "RelativeToolTip": "..\\..\\Command\\OrdersForRestaurant\\SushiOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:35:14.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PastaOrder.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\PastaOrder.cs",
+              "RelativeDocumentMoniker": "..\\..\\Command\\OrdersForRestaurant\\PastaOrder.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\PastaOrder.cs",
+              "RelativeToolTip": "..\\..\\Command\\OrdersForRestaurant\\PastaOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:33:36.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\Chef.cs",
+              "RelativeDocumentMoniker": "..\\..\\Command\\OrdersForRestaurant\\Chef.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\Chef.cs",
+              "RelativeToolTip": "..\\..\\Command\\OrdersForRestaurant\\Chef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:31:32.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\ICommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\Command\\OrdersForRestaurant\\ICommand.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\ICommand.cs",
+              "RelativeToolTip": "..\\..\\Command\\OrdersForRestaurant\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:31:07.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Command\\OrdersForRestaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Command\\OrdersForRestaurant\\Program.cs",
+              "RelativeToolTip": "..\\..\\Command\\OrdersForRestaurant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:30:55.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPaymentProccessor.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Adapter\\Payments\\IPaymentProccessor.cs",
+              "RelativeDocumentMoniker": "..\\..\\Adapter\\Payments\\IPaymentProccessor.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Adapter\\Payments\\IPaymentProccessor.cs",
+              "RelativeToolTip": "..\\..\\Adapter\\Payments\\IPaymentProccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:18:59.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Adapter\\Payments\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "..\\..\\Adapter\\Payments\\PayPalPayment.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Adapter\\Payments\\PayPalPayment.cs",
+              "RelativeToolTip": "..\\..\\Adapter\\Payments\\PayPalPayment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:18:04.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OldPaymentSystem.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Adapter\\Payments\\OldPaymentSystem.cs",
+              "RelativeDocumentMoniker": "..\\..\\Adapter\\Payments\\OldPaymentSystem.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Adapter\\Payments\\OldPaymentSystem.cs",
+              "RelativeToolTip": "..\\..\\Adapter\\Payments\\OldPaymentSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:13:40.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Adapter\\Payments\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Adapter\\Payments\\Program.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Adapter\\Payments\\Program.cs",
+              "RelativeToolTip": "..\\..\\Adapter\\Payments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:00:44.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HamDecorator.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Decorator\\Pizzaria\\HamDecorator.cs",
               "RelativeDocumentMoniker": "..\\..\\Decorator\\Pizzaria\\HamDecorator.cs",
@@ -128,12 +285,11 @@
               "RelativeToolTip": "..\\..\\Decorator\\Pizzaria\\HamDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T20:36:27.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T20:36:27.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "PizzaDecorator.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Decorator\\Pizzaria\\PizzaDecorator.cs",
               "RelativeDocumentMoniker": "..\\..\\Decorator\\Pizzaria\\PizzaDecorator.cs",
@@ -141,12 +297,11 @@
               "RelativeToolTip": "..\\..\\Decorator\\Pizzaria\\PizzaDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T20:21:54.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T20:21:54.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "CheeseDecorator.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Decorator\\Pizzaria\\CheeseDecorator.cs",
               "RelativeDocumentMoniker": "..\\..\\Decorator\\Pizzaria\\CheeseDecorator.cs",
@@ -154,12 +309,11 @@
               "RelativeToolTip": "..\\..\\Decorator\\Pizzaria\\CheeseDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T20:21:29.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T20:21:29.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Pizza.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Decorator\\Pizzaria\\Pizza.cs",
               "RelativeDocumentMoniker": "..\\..\\Decorator\\Pizzaria\\Pizza.cs",
@@ -167,12 +321,11 @@
               "RelativeToolTip": "..\\..\\Decorator\\Pizzaria\\Pizza.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T20:20:18.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T20:20:18.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "IPizza.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Decorator\\Pizzaria\\IPizza.cs",
               "RelativeDocumentMoniker": "..\\..\\Decorator\\Pizzaria\\IPizza.cs",
@@ -180,25 +333,23 @@
               "RelativeToolTip": "..\\..\\Decorator\\Pizzaria\\IPizza.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T20:18:16.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T20:18:16.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Decorator\\Pizzaria\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Decorator\\Pizzaria\\Program.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Decorator\\Pizzaria\\Program.cs*",
-              "RelativeToolTip": "..\\..\\Decorator\\Pizzaria\\Program.cs*",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Decorator\\Pizzaria\\Program.cs",
+              "RelativeToolTip": "..\\..\\Decorator\\Pizzaria\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T20:17:58.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T20:17:58.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "MenuCategoryPrice.csproj",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj",
               "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\MenuCategoryPrice.csproj",
@@ -210,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "MenuCategory.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuCategory.cs",
               "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\MenuCategory.cs",
@@ -218,12 +369,11 @@
               "RelativeToolTip": "..\\..\\Composite\\MenuCategoryPrice\\MenuCategory.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T17:53:12.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T17:53:12.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuItem.cs",
               "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\MenuItem.cs",
@@ -235,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "MenuComponent.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\MenuComponent.cs",
               "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\MenuComponent.cs",
@@ -247,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Composite\\MenuCategoryPrice\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Composite\\MenuCategoryPrice\\Program.cs",
@@ -259,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\Dsicounts\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\Dsicounts\\Program.cs",
@@ -271,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "PaymentVerificationHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\PaymentVerificationHandler.cs",
@@ -283,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "IOrderHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\IOrderHandler.cs",
@@ -295,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "ValidationHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\ValidationHandler.cs",
@@ -307,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\Order.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\Order.cs",
@@ -319,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\Program.cs",
@@ -331,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "BaseOrderHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\BaseOrderHandler.cs",
@@ -343,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "ShippingConfirmationHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\ShippingConfirmationHandler.cs",
@@ -355,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "InventoryCheckHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
               "RelativeDocumentMoniker": "..\\..\\ChainOfResposibility\\OrderApproval1\\InventoryCheckHandler.cs",
@@ -367,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Owner.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Owner.cs",
@@ -378,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Manager.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Manager.cs",
@@ -390,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "Waiter.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Waiter.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Waiter.cs",
@@ -402,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "DiscountHandler.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\DiscountHandler.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\DiscountHandler.cs",
@@ -414,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\FactoryMethod\\Discounts\\Program.cs",
               "RelativeDocumentMoniker": "..\\Discounts\\Program.cs",
@@ -426,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "Remote.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Remote.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Remote.cs",
@@ -438,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "LGTv.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\LGTv.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\LGTv.cs",
@@ -450,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "SonyTv.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\SonyTv.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\SonyTv.cs",
@@ -462,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "IDevice.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\IDevice.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\IDevice.cs",
@@ -474,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Design-Patterns\\Bridge\\TvsAndRemotes\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Bridge\\TvsAndRemotes\\Program.cs",

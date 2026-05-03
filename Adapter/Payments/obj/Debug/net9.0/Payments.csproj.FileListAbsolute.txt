@@ -1,0 +1,15 @@
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\bin\Debug\net9.0\Payments.exe
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\bin\Debug\net9.0\Payments.deps.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\bin\Debug\net9.0\Payments.runtimeconfig.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\bin\Debug\net9.0\Payments.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\bin\Debug\net9.0\Payments.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\Payments.AssemblyInfoInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\Payments.AssemblyInfo.cs
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\Payments.csproj.CoreCompileInputs.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\Payments.sourcelink.json
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\Payments.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\refint\Payments.dll
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\Payments.pdb
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\Payments.genruntimeconfig.cache
+C:\Users\plami\Documents\uni\GitHub\Design-Patterns\Adapter\Payments\obj\Debug\net9.0\ref\Payments.dll
